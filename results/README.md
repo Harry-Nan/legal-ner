@@ -1,3 +1,5 @@
+# More detailed results (NER(RE) results per authority).
+
 ## NER Gold
 | Authority | Rec_P | Rec_R | Rec_F1 | Rec_# | Auth_P | Auth_R | Auth_F1 | Auth_# | Obj_P | Obj_R | Obj_F1 | Obj_# | Act_P | Act_R | Act_F1 | Act_# | Basis_P | Basis_R | Basis_F1 | Basis_# |
 |----------|-------|-------|--------|-------|--------|--------|---------|--------|-------|-------|--------|-------|-------|-------|--------|-------|---------|---------|----------|---------|
