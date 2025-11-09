@@ -165,4 +165,4 @@ object_action_map = {
 ### Anti-sentence selection: If modal verbs are found in close proximity to legal object
 ``` python
 modal_verbs = {'kunnen', 'zullen', 'mogen'}
-``
+```
