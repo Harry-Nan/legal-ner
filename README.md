@@ -13,8 +13,11 @@ This repository contains resources, code, and data for exploring **Named Entity 
 - [data/](https://github.com/Harry-Nan/legal-ner/tree/main/data)  
   Directory containing datasets used to train NER(RE) models.
 
+- [models/](https://github.com/Harry-Nan/legal-ner/tree/main/models)  
+  Directory containing models, including model downloads, usage, and training set-up.
+
 - [results/](https://github.com/Harry-Nan/legal-ner/tree/main/results)  
-  Output directory for storing more detailed results of the models.
+  Output directory containing model predictions and detailed results of the models.
 
 - [sentence selection/](https://github.com/Harry-Nan/legal-ner/tree/main/sentence%20selection)  
   Output directory for regular expressions related to the sentence selection techniques.
