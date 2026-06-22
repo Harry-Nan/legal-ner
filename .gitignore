@@ -1,0 +1,18 @@
+# NER models
+models/NER-gold/*
+models/NER-silver/*
+models/NER-silver-to-gold/*
+
+# NERRE models
+models/NERRE-gold/*
+models/NERRE-silver/*
+models/NERRE-silver-to-gold/*
+
+# Keep README files
+!models/NER-gold/README.md
+!models/NER-silver/README.md
+!models/NER-silver-to-gold/README.md
+
+!models/NERRE-gold/README.md
+!models/NERRE-silver/README.md
+!models/NERRE-silver-to-gold/README.md
